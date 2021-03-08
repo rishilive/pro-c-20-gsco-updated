@@ -1,1 +1,2 @@
-# pro-c-20-gsco-updated
+# p5.play-boilerplate
+Boiler plate for p5.play
